@@ -1,1 +1,1 @@
-https://salefurkan.github.io/portfolio.github.io/
+https://salefurkan.github.io/portfolio/
